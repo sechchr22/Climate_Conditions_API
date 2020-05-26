@@ -1,0 +1,17 @@
+{
+  "name": "ClimateConditions-api",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagudecod97/MySpot---API.git"
+  },
+
+  "author": "Sergio Rueda",
+  "homepage": "https://github.com/sagudecod97/MySpot---API#readme",
+
+  "dependencies": {
+    "require-promise": "^4.2.5",
+    "mongoose": "^3.4.15"
+  }
+}
