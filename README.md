@@ -38,6 +38,12 @@ Everything is ready you can go
 ```sh
 ./main.js <place>
 ```
+You will recieve the following message telling it was succesfully done
+```sh
+Log saved succesfully
+```
+Log will be saved on "climatedb" database "Logs" collection.
+
 ## FILE STRUCTURE
 
 ### Folder: modules
